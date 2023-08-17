@@ -1,17 +1,6 @@
-// Display "Jay Ganesh" 5 times on screen (inside main function)
+// Display "Jay Ganesh" 5 times on screen
 
 #include<stdio.h>
-
-//////////////////////////////////////////////////////////////////////////
-//
-//  Function name :     Function inside the main Function
-//  Input :             Integer
-//  Output :            Char
-//  Description :       Display "Jay Ganesh" 5 times on screen  
-//  Author :            Ashish vinayak kamble
-//  Date :              25/04/2023
-//
-//////////////////////////////////////////////////////////////////////////
 
 // Example of Iteration
 

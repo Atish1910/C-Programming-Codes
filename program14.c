@@ -1,18 +1,4 @@
-// Display "Jay Ganesh" 5 times on screen with user input with filter & Updator
 
-#include<stdio.h>
-
-
-//////////////////////////////////////////////////////////////////////////
-//
-//  Function name :     Function Outside the main Function with user input with filter & Updator
-//  Input :             Integer
-//  Output :            Char
-//  Description :       Display "Jay Ganesh" 5 times on screen  
-//  Author :            Ashish vinayak kamble
-//  Date :              25/04/2023
-//
-//////////////////////////////////////////////////////////////////////////
 #include<stdio.h>
 
 void Display(int iNo)
